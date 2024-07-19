@@ -3,5 +3,5 @@ Jaya Tani is a website that contains information about agriculture. In Jaya Tani
 > Contains only HTML and CSS
 
 ### How to open the web:
-1. Open `JayaTani`.
+1. Open `JAYATANI`.
 2. In the `JAYATANI` folder, run the `main-sebelum-login.html` file.
